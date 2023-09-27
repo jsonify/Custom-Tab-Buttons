@@ -1,6 +1,6 @@
 # Custom Shape Tab Buttons
 
-![Custom Shape Tab Buttons Demo](demo.gif)
+![Custom Shape Tab Buttons Demo](https://github.com/jsonify/images/assets/1201529/08246100-879c-4447-b0c5-df48e7517013)
 
 The **Custom Shape Tab Buttons** project is developed using the Godot game engine and offers a unique solution for creating tabbed button layouts with custom shapes. It allows you to design visually appealing and highly customizable tabbed interfaces for your Godot game or application. The project originated from assets initially created in Figma, which were then seamlessly integrated into Godot to provide full functionality.
 
