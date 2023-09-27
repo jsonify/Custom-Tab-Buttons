@@ -2,7 +2,9 @@
 
 ![Custom Shape Tab Buttons Demo](https://github.com/jsonify/images/assets/1201529/08246100-879c-4447-b0c5-df48e7517013)
 
-The **Custom Shape Tab Buttons** project is developed using the Godot game engine and offers a unique solution for creating tabbed button layouts with custom shapes. It allows you to design visually appealing and highly customizable tabbed interfaces for your Godot game or application. The project originated from assets initially created in Figma, which were then seamlessly integrated into Godot to provide full functionality.
+The **Custom Shape Tab Buttons** project is developed using the Godot game engine and offers a unique solution for creating tabbed button layouts with custom shapes. It allows you to design visually appealing and highly customizable tabbed interfaces for your Godot game or application. The project originated from assets initially created in Figma, which were then seamlessly integrated into Godot to provide full functionality. This project was built as a tutorial to help other Godot user get an introduction into using the UI container nodes that Godot has to offer.
+
+You can view and follow along with the tutorial [here](https://youtu.be/7L4f9AxvAAI).
 
 ## Features
 
@@ -16,7 +18,7 @@ The **Custom Shape Tab Buttons** project is developed using the Godot game engin
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/Custom-Shape-Tab-Buttons.git
+   git clone https://github.com/jsonify/Custom-Shape-Tab-Buttons.git
    ```
 
 2. Open the project in the Godot Engine.
@@ -27,7 +29,7 @@ The **Custom Shape Tab Buttons** project is developed using the Godot game engin
 
 The **Custom Shape Tab Buttons** project offers extensive customization options:
 
-- **Shapes**: Design and replace custom button shapes in the `shapes` folder to match your desired tab appearance.
+- **Shapes**: Design and replace custom button shapes in the project to match your desired tab appearance.
 
 - **Colors and Styles**: Customize the button colors, materials, and styles in Godot's inspector to achieve the desired visual effects.
 
