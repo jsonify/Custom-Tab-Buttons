@@ -35,9 +35,6 @@ The **Custom Shape Tab Buttons** project offers extensive customization options:
 
 - **Functionality**: Adapt the button behavior and interactions by editing the attached scripts and signals to meet your specific needs.
 
-## Contributors
-
-- [Your Name](https://github.com/your-username) - Main Developer
 
 ## License
 
